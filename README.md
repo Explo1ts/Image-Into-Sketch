@@ -1,4 +1,4 @@
-#Image-to-Sketch - Made By Exploits
+# Image-to-Sketch - Made By Exploits
 
 Overview:
 
@@ -6,12 +6,12 @@ The Image-to-Sketch tool is a Python-based script that converts any input image 
 
 Features:
 
-Realistic Sketch Conversion: Transform your images into pencil sketches with accurate shading.
+- Realistic Sketch Conversion: Transform your images into pencil sketches with accurate shading.
 
-Easy-to-Use: Simply provide the image path, and the script generates a sketch automatically.
+- Easy-to-Use: Simply provide the image path, and the script generates a sketch automatically.
 
-Custom Output: Save the generated sketch to a file of your choice.
+- Custom Output: Save the generated sketch to a file of your choice.
 
-Preview Functionality: View both the original and sketch images side by side using a simple GUI window.
+- Preview Functionality: View both the original and sketch images side by side using a simple GUI window.
 
-No Internet Required: Fully offline image processing using OpenCV.
+- No Internet Required: Fully offline image processing using OpenCV.
